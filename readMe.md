@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/amShantanu"><img width="50%" src=".\Assets\readmeHeader.png" /></a></p> <br>
 
-<p align="right"> 📞
+<p align="right">
 <a href="mailto:kichooshan22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link" />
     </a>
     </p>
