@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/amShantanu"><img width="50%" src=".\Assets\readmeHeader.png" /></a></p> <br> <br>
+<p align="center"><a href="https://github.com/amShantanu"><img width="50%" src=".\Assets\readmeHeader.png" /></a></p> <br>
 
 <p align="right">
 <a href="mailto:kichooshan22@gmail.com">
