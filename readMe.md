@@ -24,3 +24,5 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg"></code>
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"></code> -->
 </p>
+
+![Profile views](https://gpvc.arturio.dev/amShantanu)
