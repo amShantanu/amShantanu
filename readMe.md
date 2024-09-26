@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently In the learning phase.
 - 💼 Searching... 😁
-- ❤  I'm a self-taught passionate 3d modeler
+- ❤  I'm a self-taught passionate 3d Artist.
 
 <br />
 <p align="center">
